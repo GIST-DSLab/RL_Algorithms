@@ -1,3 +1,6 @@
 [submodule "Dreamerv3"]
 	path = Dreamerv3
 	url = https://github.com/GIST-DSLab/Dreamerv3onARCLE
+[submodule "PPO"]
+	path = PPO_Solve
+	url = https://github.com/GIST-DSLab/PPO_Solve.git
