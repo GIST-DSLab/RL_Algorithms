@@ -58,7 +58,7 @@ This is pythorch implementation of [authors' DreamerV3 implementation](https://g
 If you reference this code,
 
 ```bash
-@article{rlonarcle2023,
+@article{rlonarcle2024,
   title={Enhancing Analogical Reasoning in the Abstraction and Reasoning Corpus via Model-Based RL},
   author={Lee, Jihwan and Sim, Woochang and Kim, Sejin and Kim, Sundong},
   journal={arXiv preprint arXiv:},
