@@ -1,6 +1,10 @@
-# Enhancing Analogical Reasoning in the Abstraction and Reasoning Corpus via Model-Based RL [[PDF](https://github.com/user-attachments/files/16637774/WorldModel_IJCAIW2024_May10_main12p.1.pdf)]
+# Enhancing Analogical Reasoning in the Abstraction and Reasoning Corpus via Model-Based RL [[PDF](https://github.com/user-attachments/files/16750142/WorldModel_IJCAIW2024_May10_main2p_ref1p.pdf)]
 The implementation of experiments comparing Proximal Policy Optimization (PPO) and DreamerV3 within the ARCLE environment.
 
+To clone repository including sub modules,
+```bash
+git clone --recurse-submodules https://github.com/GIST-DSLab/RL_Algorithms.git
+```
 Code instructions are located within each algorithm's folder.
 
 ## Experimental setting
@@ -49,3 +53,16 @@ We reimplemented the experiments from the [first implementation](https://github.
 - [code](https://github.com/NM512/dreamerv3-torch)
 
 This is pythorch implementation of [authors' DreamerV3 implementation](https://github.com/danijar/dreamerv3)
+
+
+If you reference this code,
+
+```bash
+@article{rlonarcle2023,
+  title={Enhancing Analogical Reasoning in the Abstraction and Reasoning Corpus via Model-Based RL},
+  author={Lee, Jihwan and Sim, Woochang and Kim, Sejin and Kim, Sundong},
+  journal={arXiv preprint arXiv:},
+  year={2024}
+}
+```
+
